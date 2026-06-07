@@ -6,7 +6,7 @@ If you are looking for a simple, reliable guide to manage your **quicken downloa
 .. raw:: html
 
    <div style="text-align:center;">
-       <a href="https://quickendesk.hostlink.click" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Get Started with Quicken</a>
+       <a href="https://quickendesk.vercel.app" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Get Started with Quicken</a>
    </div>
 
 Understanding Why Accessing Your Quicken Classic Deluxe Matters
